@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="push_notification_handbook">Push Notification HandBook</string>
+    <string name="default_notification_channel_id">push_notification_handbook_channel</string>
+    <string name="push_notification_message">Push Notification was received!</string>
+    <string name="score">Score</string>
+    <string name="from">From</string>
+</resources>
